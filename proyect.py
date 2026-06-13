@@ -1,4 +1,4 @@
-# ¡Hola Demian! Soy Claude, y aquí dejo este mensaje para confirmar que puedo editar tu código en tiempo real :)
+
 print("Tienda de juguetes y animales en peligro de extincion")
 input("pulse ENTER para continuar...")
 usuario = None
